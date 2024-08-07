@@ -7,7 +7,7 @@
     height: 100vh;
     overflow-x: hidden;
     overflow-y: auto;
-    perspective:10px; 
+    perspective: 0.6250rem; 
 }
 .head{
     height: 100%;
@@ -39,9 +39,9 @@ h1{
     position: absolute;
     top: 5rem;
     font-size: 10rem;
-    letter-spacing: 4px;
+    letter-spacing: 0.3rem;
     color: white;
-    text-shadow: 0 0 10px rgba(0,0,0,0.3);
+    text-shadow: 0 0 0.6rem rgba(0,0,0,0.3);
 }
 
 section{
@@ -74,7 +74,7 @@ section{
 }
 .bg{
     position: relative;
-    height: 500px;
+    height: 31rem;
     width: 100%;
     background-attachment: fixed;
     background-size:cover;
